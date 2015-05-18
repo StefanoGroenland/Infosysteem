@@ -1,3 +1,6 @@
+## Let op dit system heeft nog vele bugs en wordt niet meer uitgebreid.
+Hiervoor zal een nieuw project worden gestart met Laravel 5 en Bootstrap 3.2 Frameworks (PHP & CSS)
+
 # Infosysteem
 Een informatiesysteem voor start-up bedrijven.
 Dit systeem is tijdens een stage van mij gemaakt door Stefano Groenland en Necati Unal
