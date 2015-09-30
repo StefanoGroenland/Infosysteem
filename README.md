@@ -1,5 +1,5 @@
 ## Let op dit system heeft nog vele bugs en wordt niet meer uitgebreid.
-Hiervoor zal een nieuw project worden gestart met Laravel 5 en Bootstrap 3.2 Frameworks (PHP & CSS)
+
 
 # Infosysteem
 Een informatiesysteem voor start-up bedrijven.
@@ -15,6 +15,4 @@ Dit systeem heeft vele mogelijkheden zie hieronder een lijst voor alle opties.
 -Het zien van afspraken.
 -Behandelen van tickets ( problemen tussen klant en monteur bijvoorbeeld )
 
-
-Vele aspecten moeten nog worden aangevuld of bijgewerkt.
 
